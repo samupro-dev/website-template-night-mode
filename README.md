@@ -5,7 +5,7 @@ A MCBots home page template written in html and css (night mode)
 - Night mode
 - HTML
 - CSS
-- Latest version of Font Awesome (5.15.1)
+- Latest version of Font Awesome (5.15.2)
 
 ## Installation
 Go to the site folder (/var/www/html or /public_html)
